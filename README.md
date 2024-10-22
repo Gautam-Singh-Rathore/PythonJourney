@@ -6,9 +6,7 @@ Welcome to my PythonJourney! This repository is a collection of my projects, exe
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Projects](#projects)
-- [Learning Resources](#learning-resources)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 This repository serves as a personal learning space where I will document my progress, challenges, and solutions while learning Python. Each folder or file represents different topics, projects, or coding challenges that I encounter along the way.
