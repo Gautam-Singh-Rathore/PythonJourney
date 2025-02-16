@@ -1,6 +1,0 @@
-# Formatted Strings
-
-first = "Gautam"
-last = "Singh"
-msg = f'{first} [{last}] is a coder'
-print(msg)
